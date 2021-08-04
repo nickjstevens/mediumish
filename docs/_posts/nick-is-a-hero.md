@@ -6,7 +6,7 @@ tags:
 title: Nick is a hero
 date: 2021-08-03 23:00:00 +0000
 author: Nick Stevens
-featuredimg: ''
+featuredimg: "/assets/img/dummy1.jpg"
 summary: Heroes are all around, but especially in Nick
 
 ---
